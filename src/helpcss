@@ -1,0 +1,36 @@
+
+.main{
+    background-color: black;
+    height: 100vh;
+    width: 100%;
+    display: flex;
+align-items: center;
+align-content: center;
+justify-content: center;
+
+
+    
+}
+.bacgroundd{
+    background-color: white;
+    width: 400px;
+    height:450px;
+    padding-left: 25px;
+    padding-right: 25px;
+    border: 1px solid black;
+   border-radius: 10px;
+   padding-top: 30px;
+    
+}
+h1{
+    color: black;
+    font-size: x-large;
+    margin-top: 50px;
+    align-content: center;
+    
+}
+
+.btn-div{
+    background-color:black;
+    color: gray;
+}                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
